@@ -37,12 +37,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=Java&logoColor=white)
 
-## My Projects
+<!-- ## My Projects
 
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=carbon-footprint-tracker&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/carbon-footprint-tracker)
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=artist-merch-webstore&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/artist-merch-webstore)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=react-native-carbon-app&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/react-native-carbon-app)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=react-native-carbon-app&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/react-native-carbon-app) -->
 
 <p align="left">
   <a href="https://github.com/aeconick?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
