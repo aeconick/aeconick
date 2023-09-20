@@ -37,14 +37,14 @@
 ![Git](https://img.shields.io/badge/MySQL-3765af?style=for-the-badge&logo=MySQL&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## My Projects
 
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=carbon-footprint-tracker&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/carbon-footprint-tracker)
-[![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=artist-merch-webstore&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/artist-merch-webstore)
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=react-native-carbon-app&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/react-native-carbon-app)
+[![Project](https://github-readme-stats.vercel.app/api/pin/?username=aeconick&repo=artist-merch-webstore&border_color=0078d7&bg_color=151515&title_color=C9D1D9&text_color=8B949E&icon_color=0078d7)](https://github.com/aeconick/artist-merch-webstore)
 
 <p align="left">
   <a href="https://github.com/aeconick?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -52,13 +52,13 @@
 
 <hr/>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/aeconick">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=aeconick&theme=dark&border_radius=2&card_width=800" alt="Nikolay's GitHub streak"/>
   </a>
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/alsiam">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aeconick&theme=dark" alt="Al Siam's GitHub Contribution"/>
   </a>
